@@ -1,2 +1,3 @@
 # testRP
-king 실습
+Repository for git session/
+- commit test
